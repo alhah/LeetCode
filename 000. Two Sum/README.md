@@ -1,0 +1,1 @@
+用hashmap空间换时间，a的index为key，target-a为value
